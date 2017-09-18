@@ -18,6 +18,10 @@
       <option name="TAB_SIZE" value="2" />
     </indentOptions>
   </codeStyleSettings>
+  <codeStyleSettings language="Scala">
+    <option name="BLANK_LINES_AROUND_METHOD" value="0" />
+    <option name="BLANK_LINES_AROUND_METHOD_IN_INTERFACE" value="0" />
+  </codeStyleSettings>
   <codeStyleSettings language="kotlin">
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
