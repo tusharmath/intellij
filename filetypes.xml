@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="HelloWorld.scala" type="Scala" />
+      <mapping pattern="TestData.scala" type="Scala" />
     </extensionMap>
   </component>
 </application>
