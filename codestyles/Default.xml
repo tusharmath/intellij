@@ -1,1 +1,5 @@
-<code_scheme name="Default" />
+<code_scheme name="Default" version="173">
+  <ScalaCodeStyleSettings>
+    <option name="USE_SCALAFMT_FORMATTER" value="true" />
+  </ScalaCodeStyleSettings>
+</code_scheme>
